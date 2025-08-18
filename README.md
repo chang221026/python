@@ -1,1 +1,2 @@
-# python_codewithmosg
+# python_learning
+https://codewithmosh.com/
